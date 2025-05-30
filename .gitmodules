@@ -5,3 +5,6 @@
 [submodule "DEGRE"]
 	path = DEGRE
 	url = https://github.com/cran/DEGRE
+[submodule "SpoMAG"]
+	path = SpoMAG
+	url = https://github.com/cran/SpoMAG
